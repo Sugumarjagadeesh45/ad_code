@@ -44,7 +44,7 @@ function Settings() {
     setMessage("");
     setError("");
     try {
-      const response = await axios.post("https://dummbackend-1extraaaaa.onrender.com/api/admin/ride-prices", {
+      const response = await axios.post("https://backendddcode-1.onrender.com/api/admin/ride-prices", {
         prices: prices
       });
 
