@@ -20,6 +20,7 @@ function RegisterPage() {
     }
   };
 
+  
   return (
     <div className="container mt-5">
       <h2>Admin Register</h2>
